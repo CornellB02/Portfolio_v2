@@ -17,7 +17,7 @@ var plugins = [{
     },{
       name: 'gatsby-plugin-manifest',
       plugin: require('/Users/directorj/Desktop/v4-main-2/node_modules/gatsby-plugin-manifest/gatsby-ssr'),
-      options: {"plugins":[],"name":"Brittany Chiang","short_name":"Brittany Chiang","start_url":"/","background_color":"#020c1b","theme_color":"#0a192f","display":"minimal-ui","icon":"src/images/logo.png","legacy":true,"theme_color_in_head":true,"cache_busting_mode":"query","crossOrigin":"anonymous","include_favicon":true,"cacheDigest":"e2e1ef4ba1ac4936a67d9b377c8600cb"},
+      options: {"plugins":[],"name":"Cornell Bethea Jr.","short_name":"Cornell Bethea Jr.","start_url":"/","background_color":"#020c1b","theme_color":"#0a192f","display":"minimal-ui","icon":"src/images/logo.png","legacy":true,"theme_color_in_head":true,"cache_busting_mode":"query","crossOrigin":"anonymous","include_favicon":true,"cacheDigest":"e2e1ef4ba1ac4936a67d9b377c8600cb"},
     },{
       name: 'gatsby-plugin-offline',
       plugin: require('/Users/directorj/Desktop/v4-main-2/node_modules/gatsby-plugin-offline/gatsby-ssr'),
