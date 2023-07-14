@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://ibb.co/sitemap-index.xml
-Host: https://ibb.co
+Sitemap: https://64b1d5028584bd253ca70b32--cbethea-portfolio-v2.netlify.app/sitemap-index.xml
+Host: https://64b1d5028584bd253ca70b32--cbethea-portfolio-v2.netlify.app
