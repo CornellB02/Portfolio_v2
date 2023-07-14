@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://github.com/CornellB02/Portfolio_v2/blob/main/sitemap-index.xml
-Host: https://github.com
+Sitemap: https://ibb.co/sitemap-index.xml
+Host: https://ibb.co

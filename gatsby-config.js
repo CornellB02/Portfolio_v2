@@ -6,8 +6,8 @@ module.exports = {
     title: 'Cornell Bethea Jr',
     description:
       "A Software Engineer who combines my love for technology with a relatable and approachable demeanor. I'm all about creating powerful software solutions while fostering a friendly and inclusive atmosphere. Let's connect!",
-    siteUrl: 'https://ibb.co', // No trailing slash allowed!
-    image: '/PwCvbrN', // Path to your image you placed in the 'static' folder
+    siteUrl: 'https://64b1d5028584bd253ca70b32--cbethea-portfolio-v2.netlify.app/', // No trailing slash allowed!
+    image: '/ogg.jpg', // Path to your image you placed in the 'static' folder
     twitterUsername: '@cbethea02',
   },
   plugins: [
@@ -21,8 +21,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'Cornell Bethea Jr',
-        short_name: 'Cornell Bethea Jr',
+        name: 'Brittany Chiang',
+        short_name: 'Brittany Chiang',
         start_url: '/',
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,
