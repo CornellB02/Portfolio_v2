@@ -5,10 +5,10 @@ module.exports = {
   siteMetadata: {
     title: 'Cornell Bethea Jr',
     description:
-      'Brittany Chiang is a software engineer who specializes in building (and occasionally designing) exceptional digital experiences.',
-    siteUrl: 'https://brittanychiang.com', // No trailing slash allowed!
-    image: '/og.png', // Path to your image you placed in the 'static' folder
-    twitterUsername: '@bchiang7',
+      "A Software Engineer who combines my love for technology with a relatable and approachable demeanor. I'm all about creating powerful software solutions while fostering a friendly and inclusive atmosphere. Let's connect!",
+    siteUrl: 'https://github.com/CornellB02', // No trailing slash allowed!
+    image: '/ogg.png', // Path to your image you placed in the 'static' folder
+    // twitterUsername: '@bchiang7',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -21,8 +21,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'Brittany Chiang',
-        short_name: 'Brittany Chiang',
+        name: 'Cornell Bethea Jr',
+        short_name: 'Cornell Bethea Jr',
         start_url: '/',
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,
