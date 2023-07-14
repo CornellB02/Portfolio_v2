@@ -185,7 +185,7 @@ const GlobalStyle = createGlobalStyle`
     margin: 0;
     font-size: clamp(40px, 8vw, 40px);
    position: relative;
-  right: 22vw;
+  right: 16.5vw;
   color: var(--green);
   }
 

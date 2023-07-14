@@ -6,7 +6,7 @@ module.exports = {
     title: 'Cornell Bethea Jr',
     description:
       "A Software Engineer who combines my love for technology with a relatable and approachable demeanor. I'm all about creating powerful software solutions while fostering a friendly and inclusive atmosphere. Let's connect!",
-    siteUrl: 'https://github.com/CornellB02', // No trailing slash allowed!
+    siteUrl: 'https://github.com/CornellB02/Portfolio_v2/blob/main/static', // No trailing slash allowed!
     image: '/ogg.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@cbethea02',
   },
