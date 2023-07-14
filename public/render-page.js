@@ -4042,8 +4042,8 @@ var plugins = [{
   plugin: __webpack_require__(/*! ./node_modules/gatsby-plugin-manifest/gatsby-ssr */ "./node_modules/gatsby-plugin-manifest/gatsby-ssr.js"),
   options: {
     "plugins": [],
-    "name": "Brittany Chiang",
-    "short_name": "Brittany Chiang",
+    "name": "Cornell Bethea Jr",
+    "short_name": "Cornell Bethea Jr",
     "start_url": "/",
     "background_color": "#020c1b",
     "theme_color": "#0a192f",
